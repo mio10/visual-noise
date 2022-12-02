@@ -13,3 +13,11 @@ Small program that generate white and "colorful" noise.
 1. Open Processing IDE.
 2. Open `random.pde`.
 3. Run the game.
+
+## Usage
+|Key|Action|
+|---|---|
+|Space|Toggle pause|
+|M|Toggle white/"colored" noise|
+|W/S|Increase/decrease cell size|
+|A/D|Decrease/increase saturation|
