@@ -13,8 +13,9 @@ Small program that generate white and "colorful" noise.
 ### Windows
 *(may work on Linux too but wasn't tested)*
 ```console
-$ processing-java --sketch=<path_to_cloned_directory> --run
+$ processing-java --sketch=path/to/random --run
 ```
+**Note:** `path/to/random` is a path to the directory containing `random.pde`
 
 ## Usage
 |Key|Action|
