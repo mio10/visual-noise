@@ -10,9 +10,11 @@ Small program that generate white and "colorful" noise.
 [Processing](https://processing.org) is required.
 
 ## Quick start
-1. Open Processing IDE.
-2. Open `random.pde`.
-3. Run the game.
+### Windows
+*(may work on Linux too but wasn't tested)*
+```console
+$ processing-java --sketch=<path_to_cloned_directory> --run
+```
 
 ## Usage
 |Key|Action|
