@@ -1,7 +1,7 @@
 # Visual noise
 
 ## Description
-Small program that generate white and "colorful" noise.
+Small program that generate visual noise.
 
 ![](thumbnail-white.png)
 ![](thumbnail-colored.png)
